@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/taher-dev/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/taher-dev/DSA-Practice/tree/master/0115-distinct-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/taher-dev/DSA-Practice/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
