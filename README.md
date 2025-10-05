@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/taher-dev/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/taher-dev/DSA-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taher-dev/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,9 +32,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/taher-dev/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taher-dev/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/taher-dev/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/taher-dev/DSA-Practice/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
