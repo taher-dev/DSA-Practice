@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/taher-dev/DSA-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taher-dev/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/taher-dev/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2502-sort-the-people](https://github.com/taher-dev/DSA-Practice/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/taher-dev/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/taher-dev/DSA-Practice/tree/master/0115-distinct-subsequences) |
+| [2502-sort-the-people](https://github.com/taher-dev/DSA-Practice/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/taher-dev/DSA-Practice/tree/master/0001-two-sum) |
+| [2502-sort-the-people](https://github.com/taher-dev/DSA-Practice/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/taher-dev/DSA-Practice/tree/master/0130-surrounded-regions) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/taher-dev/DSA-Practice/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
